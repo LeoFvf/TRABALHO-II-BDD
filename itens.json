@@ -1,0 +1,102 @@
+[
+	{ 
+		"id": "f6777f0b-9864-4121-9a24-86dca5035902",
+		
+		"titulo": "Geometry Dash Lite",
+		
+		"descricao": "Jogo de para testar sua habilidade, junte os amigos e descubra quem chega mais longe.",
+		
+		"screenshots": [
+			"https://www.google.com/search?q=geometry+dash&tbm=isch&chips=q:geometry+dash,g_1:jogo:XybLF_qG-Ao%3D&rlz=1C1FCXM_pt-PTBR992BR992&hl=pt-BR&sa=X&ved=2ahUKEwiL2MSHwsn7AhX6ArkGHaA4DUsQ4lYoAXoECAEQJw&biw=1519&bih=714"
+		],
+		"thumbnail": "https://www.google.com/search?q=geometry+dash&tbm=isch&chips=q:geometry+dash,g_1:jogo:XybLF_qG-Ao%3D&rlz=1C1FCXM_pt-PTBR992BR992&hl=pt-BR&sa=X&ved=2ahUKEwiL2MSHwsn7AhX6ArkGHaA4DUsQ4lYoAXoECAEQJw&biw=1519&bih=714",
+		
+		"preco": 0.0,
+		
+		"estudio": "aaeac2d8-c026-4985-a4f8-42a2535c3b53",
+
+		"tamanho": "150gb",
+
+		"categoria": 8
+	}, 
+
+	{ 
+		"id" : "9fbad57c-6cc5-11ed-a1eb-0242ac120002", 
+		
+		"titulo" : "Score Hero",
+		
+		"descricao" : "Jogo de futebol, para todos os publicos.",
+		
+		"screenshots" : [
+			"https://play-lh.googleusercontent.com/OC0PZgRqGLvPl3LMoHSZEsz2FKkFwhoyExKLR07Q_4hA753KMa9eI5-fW6igmWQvpg",
+			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Hpw6QlrysuEqFQn2nj5qSZpZ_l24xzsfSmyCrZTVfCTvujPVlSrqJiDYL2sqiAH-NVU&usqp=CAU"
+		],
+
+		"thumbnail" : "https://play-lh.googleusercontent.com/OC0PZgRqGLvPl3LMoHSZEsz2FKkFwhoyExKLR07Q_4hA753KMa9eI5-fW6igmWQvpg",
+		
+		"preco" : 0.0,
+
+		"estudio" : "0091d39b-970b-44d7-899a-642371da04ec",
+
+		"tamanho": "253gb",
+
+		"categoria" : 6
+		
+	},
+	
+	{
+		"id" : "c70c10c6-3813-453c-864d-fd2bbda6597b",
+		
+		"titulo" : "Clash Royale",
+
+		"descricao" : "Quer ser o maior campeão do mundo? Entre no mundo do Clash Royale e desafie seus amigos para ver quem tem o melhor deck.",
+
+		"screenshots" : [
+			"https://www.google.com/search?q=clash+royale&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsbQymuFnxbSLbKtb1SN10vmcP3cMw:1669397707633&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0wOiK78n7AhVRLLkGHSoHBmEQ_AUoAnoECAIQBA&biw=1536&bih=714&dpr=1.25"
+			
+		],
+
+		"thumbnail" : "https://www.google.com/search?q=clash+royale&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsbQymuFnxbSLbKtb1SN10vmcP3cMw:1669397707633&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0wOiK78n7AhVRLLkGHSoHBmEQ_AUoAnoECAIQBA&biw=1536&bih=714&dpr=1.25",
+		
+		"preco" : 0.0,
+
+		"estudio" : "2fe87b24-abca-4055-b381-efacea6d3c3c",
+
+		"tamanho": "197mb",
+
+		"categoria" : "3" 
+
+	},
+
+	{
+
+		"id" : "14a8fb07-f1b4-416c-8898-3eb32ca3aade",
+		
+		"titulo" : "Clash of Clans",
+
+		"descricao" : "Rede social",
+
+		"screenshots" : [
+			"https://www.google.com/search?q=clash+of+clans&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsam7A18NOPeYyGsDLj01kXizMTlgQ:1669398205031&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjapP_38Mn7AhVIGbkGHd8fBxIQ_AUoAnoECAIQBA&biw=1536&bih=714&dpr=1.25"
+			
+		],
+
+		"thumbnail" : "https://www.google.com/search?q=clash+of+clans&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsam7A18NOPeYyGsDLj01kXizMTlgQ:1669398205031&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjapP_38Mn7AhVIGbkGHd8fBxIQ_AUoAnoECAIQBA&biw=1536&bih=714&dpr=1.25",
+		
+		"preco" : 0.0,
+
+		"estudio" : "2fe87b24-abca-4055-b381-efacea6d3c3c",
+
+		"tamanho": "335mb",
+
+		"categoria" : "3" 
+
+
+
+
+	}
+
+
+
+
+]

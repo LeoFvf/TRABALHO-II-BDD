@@ -1,0 +1,41 @@
+[
+	{
+		"id" : "814e967c-e386-4030-90e3-498fdce9170c", 
+		"nome" : "Léo Falcão",
+		"email" : "leo.fvf10@gmail.com",
+		"itens_baixados" : [
+         {
+         "item" : "9fbad57c-6cc5-11ed-a1eb-0242ac120002",
+         "nota" : 3,
+         "avaliacao" : "Um ótimo jogo para jogar no ônibus."
+         }
+      ]
+	},
+
+	{
+		"id": "b1ee0532-bd32-423c-9156-8ac9974acaab",
+		"nome" : "Angelo Corte",
+		"email" : "angelocorte@gmail.com",
+      "itens_baixados" : [
+         {
+         "item" : "f6777f0b-9864-4121-9a24-86dca5035902",
+         "nota" : 4,
+         "avaliacao" : "Adoro jogar com meus amigos"
+         }
+      ]
+   },
+
+	{
+		"id": "a1895f5c-9dc1-4642-a820-74e6c1e0c02b",
+		"nome" : "Gregório Ramos",
+		"email" : "gregorioramos@gmail.com",
+      "itens_baixados" : [
+         {
+         "item" : "c70c10c6-3813-453c-864d-fd2bbda6597b",
+         "nota" : 5,
+         "avaliacao" : ""
+         }
+      ]
+   }
+
+]

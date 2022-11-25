@@ -1,0 +1,51 @@
+[
+	{
+		"id" : 1,
+		"descricao" : "Ação"
+	},
+
+	{
+		"id" : 2,
+		"descricao" : "Aventura"
+	},
+
+	{
+		"id" : 3,
+		"descricao" : "Cartas"
+	},
+	
+	{
+		"id" : 4,
+		"descricao" : "Casual"
+	},
+	
+	{
+		"id" : 5,
+		"descricao" : "Corrida"
+	},
+	
+	{
+		"id" : 6,
+		"descricao" : "Esportes"
+	},      
+	
+	{
+		"id" : 7,
+		"descricao" : "Estratégia"
+	},      
+
+	{
+		"id" : 8,
+		"descricao" : "Música"
+	},
+
+	{
+		"id" : 9,
+		"descricao" : "Quebra-cabeças"
+	},
+	
+	{
+		"id" : 10,
+		"descricao" : "RPG"
+	}
+]
