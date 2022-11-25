@@ -64,7 +64,10 @@
 
 		"tamanho": "197mb",
 
-		"categoria" : "3" 
+		"categoria" : [
+			3, 
+			8
+		] 
 
 	},
 
@@ -89,7 +92,12 @@
 
 		"tamanho": "335mb",
 
-		"categoria" : "3" 
+		"categoria" : [
+			1, 
+			8,
+			10
+
+		] 
 
 
 
