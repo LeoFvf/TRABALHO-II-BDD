@@ -17,7 +17,9 @@
 
 		"tamanho": "150gb",
 
-		"categoria": 8
+		"categorias": [
+			8
+		]
 	}, 
 
 	{ 
@@ -40,7 +42,9 @@
 
 		"tamanho": "253gb",
 
-		"categoria" : 6
+		"categorias" : [
+			6
+		]
 		
 	},
 	
@@ -64,7 +68,7 @@
 
 		"tamanho": "197mb",
 
-		"categoria" : [
+		"categorias" : [
 			3, 
 			8
 		] 
@@ -92,19 +96,11 @@
 
 		"tamanho": "335mb",
 
-		"categoria" : [
+		"categorias" : [
 			1, 
 			8,
 			10
 
 		] 
-
-
-
-
 	}
-
-
-
-
 ]
