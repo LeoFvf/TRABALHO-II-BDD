@@ -8,7 +8,14 @@
          "item" : "9fbad57c-6cc5-11ed-a1eb-0242ac120002",
          "nota" : 3,
          "avaliacao" : "Um ótimo jogo para jogar no ônibus."
+         },
+
+         {
+            "item" : "ac8aa64f-e717-4ce8-a009-d8eb0666773b",
+            "nota" : 5,
+            "avaliacao" : "Filme com uma drama muito boa."
          }
+
       ]
 	},
 
@@ -21,7 +28,13 @@
          "item" : "f6777f0b-9864-4121-9a24-86dca5035902",
          "nota" : 4,
          "avaliacao" : "Adoro jogar com meus amigos"
-         }
+         },
+
+         {
+            "item" : "f6777f0b-9864-4121-9a24-86dca5035902",
+            "nota" : 4,
+            "avaliacao" : ""
+            }
       ]
    },
 
@@ -33,6 +46,19 @@
          {
          "item" : "c70c10c6-3813-453c-864d-fd2bbda6597b",
          "nota" : 5,
+         "avaliacao" : ""
+         }
+      ]
+   },
+
+   {
+		"id": "a1895f5c-9dc1-4642-a820-74e6c1e0c02b",
+		"nome" : "Fernanda Fagundes",
+		"email" : "fernanda@gmail.com",
+      "itens_baixados" : [
+         {
+         "item" : "f6777f0b-9864-4121-9a24-86dca5035902",
+         "nota" : 2,
          "avaliacao" : ""
          }
       ]

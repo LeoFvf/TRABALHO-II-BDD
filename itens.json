@@ -83,7 +83,7 @@
 
 		"descricao" : "Rede social",
 
-		"screenshots" : [
+		"screensho.ts" : [
 			"https://www.google.com/search?q=clash+of+clans&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsam7A18NOPeYyGsDLj01kXizMTlgQ:1669398205031&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjapP_38Mn7AhVIGbkGHd8fBxIQ_AUoAnoECAIQBA&biw=1536&bih=714&dpr=1.25"
 			
 		],
@@ -102,5 +102,51 @@
 			10
 
 		] 
+	},
+
+	{ 		
+		"id": "ac8aa64f-e717-4ce8-a009-d8eb0666773b",
+	
+		"titulo": "Sempre ao seu Lado",
+	
+		"descricao": "Professor universitário encontra na estação de trem um filhote de cachorro da raça Akita, conhecida por sua lealdade. O cão passa a acompanhá-lo até a estação de trem e esperar sua volta. Até que um acontecimento inesperado altera sua vida.",
+	
+		"screenshots": [
+			"https://www.google.com/search?q=sempre+ao+seu+lado&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsb_voMUcloDYT8i6PSLwCzu5Axozw:1669404905716&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisyZDzicr7AhVKGrkGHZRkA40Q_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25"
+		],
+	
+		"thumbnail": "https://www.google.com/search?q=sempre+ao+seu+lado&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsb_voMUcloDYT8i6PSLwCzu5Axozw:1669404905716&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisyZDzicr7AhVKGrkGHZRkA40Q_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25",
+	
+		"preco": 39.50,
+	
+		"estudio": "dfe03417-1b69-4000-af75-1d7e80ae56c2",
+
+		"duracao": 135
+	},
+
+
+	{ 
+		"id": "f6777f0b-9864-4121-9a24-86dca5035902",
+		
+		"titulo": "Facebook",
+		
+		"descricao": "Rede social.",
+		
+		"screenshots": [
+			"https://www.google.com/search?q=facebook&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsampsRFBObuvHdBwvARK_CYzrLq7g:1669405354597&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi-kJbJi8r7AhV5HbkGHUjCC_MQ_AUoBHoECAIQBg&biw=1536&bih=714&dpr=1.25"
+		],
+		
+		"thumbnail": "https://www.google.com/search?q=facebook&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsampsRFBObuvHdBwvARK_CYzrLq7g:1669405354597&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi-kJbJi8r7AhV5HbkGHUjCC_MQ_AUoBHoECAIQBg&biw=1536&bih=714&dpr=1.25",
+		
+		"preco": 0.0,
+		
+		"estudio": "56e665a4-c053-4dbf-8856-d6f5f254cbc7",
+
+		"tamanho": "299mb"
 	}
+
+
+
+
+
 ]
