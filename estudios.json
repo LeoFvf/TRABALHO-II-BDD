@@ -30,13 +30,18 @@
 	},
 
 	{
-
-		"id" : "",
-		"nome" : "",
-		"descricao" : "",
-		"thumbnail" : "" 
-
+		"id": "4406fc62-0473-48e5-91a7-4c261bc14a50",
+		"nome": "Dysney",
+		"descricao": "É uma companhia multinacional estadunidense de mídia de massa sediada no Walt Disney Studios.",
+		"thumbnail": "https://www.google.com/search?q=disney&sxsrf=ALiCzsZ_qLa9OWV62LsKeWVIWZqHXbM4vQ:1669396941690&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiNhsud7Mn7AhXuBbkGHduOAucQ_AUoAnoECAIQBA&biw=1280&bih=817&dpr=1#imgrc=BGjhozVl2EUJ6M"
 	},
+	
+	{
+        "id": "a80ee9e5-d174-4efa-a451-cabb3dc65163",
+        "nome": "BeerSmith™ Home Brewing Software",
+        "descricao" :"Aplicativo para fazer a composição e previsão do resultado final de uma cerveja artesanal.",
+        "thumbnail": "https://www.google.com/search?q=Beersmith&hl=pt-BR&sxsrf=ALiCzsaHB5OLcCxsUw2FQsWWZnpANY4q2w:1669398318459&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPvIeu8cn7AhWKLLkGHTiFD0MQ_AUoAnoECAIQBA&biw=1920&bih=937&dpr=1#imgrc=dVO43xqj8xIlPM"
+    },
 	
 	{
 
@@ -46,14 +51,19 @@
 		"thumbnail" : "" 
 
 	},
+
+	{
+		"id": "f9a74d7a-7e98-4581-8035-080b6dd708a5",
+		"nome": "Blizzard Entertainment",
+		"descricao": "Editora e desenvolvedora de videojogos.",
+		"thumbnail": "https://www.google.com/search?q=blizzard&sxsrf=ALiCzsZTER1HCy9aUemcS5BpKh6JNfal1w:1669396875050&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi71Of968n7AhUAHrkGHdJuBDUQ_AUoAnoECAIQBA&biw=1280&bih=817&dpr=1#imgrc=sEsaS2acbyaiuM"
+	}, 
 	
 	{
-
-		"id" : "",
-		"nome" : "",
-		"descricao" : "",
-		"thumbnail" : "" 
-
+		"id": "8ed62d7d-4536-4705-bee2-86ccb76bdd38",
+		"nome": "Gorilla Studio",
+		"descricao": "Estudio de animações e efeitos visuais.",
+		"thumbnail": "https://www.google.com/search?q=Gorilla+Studio&sxsrf=ALiCzsbkQEAMgnnENfT1pWqTXAwiaEB21g:1669398002660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpvr-X8Mn7AhWcK7kGHeazAGsQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1#imgrc=jCB1beEAljmPdM"
 	}
 
 ]

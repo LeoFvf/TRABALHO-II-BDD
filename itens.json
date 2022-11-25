@@ -17,7 +17,7 @@
 
 		"tamanho": "150gb",
 
-		"categoria": 8
+		"categorias": 8
 	}, 
 
 	{ 
@@ -40,7 +40,7 @@
 
 		"tamanho": "253gb",
 
-		"categoria" : 6
+		"categorias" : 6
 		
 	},
 	
@@ -64,7 +64,7 @@
 
 		"tamanho": "197mb",
 
-		"categoria" : [
+		"categorias" : [
 			3, 
 			8
 		] 
@@ -92,16 +92,76 @@
 
 		"tamanho": "335mb",
 
-		"categoria" : [
+		"categorias" : [
 			1, 
 			8,
 			10
 
 		] 
 
+	},
+	{ 
+		
+		"id": "777ab0a4-1489-4c4f-ad74-87444935d095",
+		"titulo": "HearthStone",
+		"descricao": "É um jogo de cartas RPG estratégico on-line desenvolvido e publicado pela empresa Blizzard Entertainment.",
+		"screenshots": [
+			"https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=pt"
+		],
+		"thumbnail": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=pt",
+		"preco": 0.0,
+		"estudio": "f9a74d7a-7e98-4581-8035-080b6dd708a5",
 
+		
+		"tamanho": "3gb",
 
+		
+		"categorias" : [
+			3, 
+			7,
+			10
 
+		] 
+	}, 
+	
+	{ 
+		
+		"id": "17f795aa-069e-48a1-a7c0-a7e869939a41",
+		"titulo": "Archero",
+		"descricao": "é um jogo mobile de ação onde o seu objetivo é desviar dos ataques dos inimigos e derrotá-los.",
+		"screenshots": [
+			"https://play.google.com/store/apps/details?id=com.habby.archero&hl=pt_BR&gl=US"
+		],
+		"thumbnail": "https://www.google.com/search?q=jogo+archero+foto&tbm=isch&ved=2ahUKEwiBnP_c8Mn7AhUlOLkGHesnBf8Q2-cCegQIABAA&oq=jogo+archero+foto&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQHlCdBVjqCWClCmgAcAB4AIABdYgBxAOSAQMwLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=hP6AY4HKGKXw5OUP68-U-A8&bih=937&biw=1920#imgrc=wx_HStPvReKTWM",
+		"preco": 0.0,
+		"estudio": "8ed62d7d-4536-4705-bee2-86ccb76bdd38",
+
+		
+		"tamanho": "6gb",
+
+		
+		"categorias" : [
+			1, 
+			2,
+			10
+
+		] 
+	},
+
+	{ 
+		
+		"id": "1f3ec4d9-bb90-40f3-bec7-e0be3e59649f",
+		"titulo": "BeerSmith 3",
+		"descricao": "Monte a sua própio cerveja artesanal no seu celular.",
+		"screenshots": [
+			"https://play.google.com/store/apps/details?id=com.beersmith.beersmith2full&hl=pt"
+		],
+		"thumbnail": "https://play.google.com/store/apps/details?id=com.beersmith.beersmith2full&hl=pt",
+		"preco": 27.99,
+		"estudio": "a80ee9e5-d174-4efa-a451-cabb3dc65163",
+
+		
+		"tamanho": "0.01gb"
 	}
 
 
