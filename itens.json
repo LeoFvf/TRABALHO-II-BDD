@@ -77,7 +77,6 @@
 	},
 
 	{
-
 		"id" : "14a8fb07-f1b4-416c-8898-3eb32ca3aade",
 		
 		"titulo" : "Clash of Clans",
@@ -106,21 +105,24 @@
 	},
 
 
-	{ 
-		
+	{ 		
 		"id": "777ab0a4-1489-4c4f-ad74-87444935d095",
+	
 		"titulo": "HearthStone",
+	
 		"descricao": "É um jogo de cartas RPG estratégico on-line desenvolvido e publicado pela empresa Blizzard Entertainment.",
+	
 		"screenshots": [
 			"https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=pt"
 		],
+	
 		"thumbnail": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=pt",
+	
 		"preco": 0.0,
+	
 		"estudio": "f9a74d7a-7e98-4581-8035-080b6dd708a5",
-
 		
 		"tamanho": "3gb",
-
 		
 		"categorias" : [
 			3, 
@@ -130,16 +132,21 @@
 		] 
 	}, 
 	
-	{ 
-		
+	{ 		
 		"id": "17f795aa-069e-48a1-a7c0-a7e869939a41",
+	
 		"titulo": "Archero",
+	
 		"descricao": "é um jogo mobile de ação onde o seu objetivo é desviar dos ataques dos inimigos e derrotá-los.",
+	
 		"screenshots": [
 			"https://play.google.com/store/apps/details?id=com.habby.archero&hl=pt_BR&gl=US"
 		],
+	
 		"thumbnail": "https://www.google.com/search?q=jogo+archero+foto&tbm=isch&ved=2ahUKEwiBnP_c8Mn7AhUlOLkGHesnBf8Q2-cCegQIABAA&oq=jogo+archero+foto&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQHlCdBVjqCWClCmgAcAB4AIABdYgBxAOSAQMwLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=hP6AY4HKGKXw5OUP68-U-A8&bih=937&biw=1920#imgrc=wx_HStPvReKTWM",
+	
 		"preco": 0.0,
+	
 		"estudio": "8ed62d7d-4536-4705-bee2-86ccb76bdd38",
 
 		"tamanho": "6gb",
@@ -172,8 +179,7 @@
 		"duracao": 135
 	},
 
-	{ 
-		
+	{ 		
 		"id": "1f3ec4d9-bb90-40f3-bec7-e0be3e59649f",
 		"titulo": "BeerSmith 3",
 		"descricao": "Monte a sua própio cerveja artesanal no seu celular.",
@@ -207,9 +213,147 @@
 
 		"tamanho": "299mb"
 
-	}
+	},
+
+	{ 		
+		"id": "777ab0a4-1489-4c4f-ad74-87444935d095",
+		
+		"titulo": "Poker Stars",
+		
+		"descricao": "Jogue poker com milhoões de pessoas.",
+		
+		"screenshots": [
+			"https://www.google.com/search?q=pokerstars&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsaqc77fod3s76Zz7WLRq0jegP5hUQ:1669416389111&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjSmOvWtMr7AhWFqZUCHVpLCMgQ_AUoA3oECAIQBQ&biw=1536&bih=714&dpr=1.25"
+		],
+		
+		"thumbnail": "https://www.google.com/search?q=pokerstars&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsaqc77fod3s76Zz7WLRq0jegP5hUQ:1669416389111&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjSmOvWtMr7AhWFqZUCHVpLCMgQ_AUoA3oECAIQBQ&biw=1536&bih=714&dpr=1.25",
+		
+		"preco": 0.0,
+		
+		"estudio": "18565ee1-9f2e-46a9-9a8a-56a8bccef1b5",
+
+		"tamanho": "203mbgb",
+		
+		"categorias" : [
+			3, 
+			4,
+			7			
+		] 
+	},
+
+	{ 		
+		"id": "2577a505-a4ce-4e03-9baf-58931f9a4bbb",
+		
+		"titulo": "Brawl Stars",
+		
+		"descricao": "O novo battle royale no seu telefone, chame seus amigos e jogue o novo 3x3 da Supercell",
+		
+		"screenshots": [
+			"https://www.google.com/search?q=brawl+stars+event&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsaCzuEENCTEM2yoTLKcalUq8_-zwQ:1669416821208&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4wvCktsr7AhV-A7kGHbo7CPMQ_AUoAnoECAIQBA&cshid=1669416839146818&biw=1536&bih=714&dpr=1.25"
+		],
+		
+		"thumbnail": "https://www.google.com/search?q=brawl+stars+event&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsaCzuEENCTEM2yoTLKcalUq8_-zwQ:1669416821208&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4wvCktsr7AhV-A7kGHbo7CPMQ_AUoAnoECAIQBA&cshid=1669416839146818&biw=1536&bih=714&dpr=1.25",
+		
+		"preco": 0.0,
+		
+		"estudio": "2fe87b24-abca-4055-b381-efacea6d3c3c",
+
+		"tamanho": "565mb",
+		
+		"categorias" : [
+			1, 
+			4			
+		] 
+	},
 
 
+	{ 
+		"id": "1315cf05-f7ab-4f0f-a355-99bc889781ee",
+		
+		"titulo": "Instagram",
+		
+		"descricao": "Rede social.",
+		
+		"screenshots": [
+			"https://www.google.com/search?q=instagram&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsb-y49XyN5T78NzTvWXNdeNfF2smg:1669417297517&source=lnms&tbm=isch&sa=X&ved=2ahUKEwih__-HuMr7AhWOpZUCHdwLBrEQ_AUoAnoECAMQBA&biw=1536&bih=714&dpr=1.25"
+		],
+		"thumbnail": "https://www.google.com/search?q=instagram&rlz=1C1FCXM_pt-PTBR992BR992&sxsrf=ALiCzsb-y49XyN5T78NzTvWXNdeNfF2smg:1669417297517&source=lnms&tbm=isch&sa=X&ved=2ahUKEwih__-HuMr7AhWOpZUCHdwLBrEQ_AUoAnoECAMQBA&biw=1536&bih=714&dpr=1.25",
+		
+		"preco": 0.0,
+		
+		"estudio": "56e665a4-c053-4dbf-8856-d6f5f254cbc7",
+
+		"tamanho": "259mb"
+	},
+
+	{ 
+		"id": "1f3ec4d9-bb90-40f3-bec7-e0be3e59650f",
+		
+		"titulo": "TFT",
+		
+		"descricao": "Se divirta em um jogo battleRoyale",
+		
+		"screenshots": [
+			"https://apps.apple.com/br/app/tft-teamfight-tactics/id1480616748"
+		],
+		
+		"thumbnail": "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2b/c4/32/2bc43205-b202-926c-a9ad-b55d64312050/d610d309-5058-4689-a8f5-bdf4d09c04df_03_Screenshot_6-5_Phone_BR_iOS.png/313x0w.webp",
+		
+		"preco": 0.0,
+		
+		"estudio": "3406fc62-0473-48e5-81a7-4c261bc14a50",
+
+		"tamanho": "20.0gb",
+		
+		"categorias" : [
+			10			
+		]	 
+   },
+
+	{ 		
+		"id": "732fc6e0-d16b-4c72-9862-967a0fabe51e",
+	
+		"titulo": "Harry Poter e o Prisioneiro de Azkaban",
+	
+		"descricao": "Harry Potter e o Prisioneiro de Azkaban é o terceiro livro dos sete volumes da série de fantasia Harry Potter, tanto em termos cronológicos como em ordem de publicação, da autora inglesa J. K. Rowling.",
+	
+		"screenshots": [
+			"https://www.google.com/search?q=harry+potter+e+o+prisioneiro+de+azkaban+livro+&tbm=isch&ved=2ahUKEwiwiqnNucr7AhXMN7kGHV6QB9wQ2-cCegQIABAA"
+		],
+	
+		"thumbnail": "https://www.google.com/search?q=harry+potter+e+o+prisioneiro+de+azkaban+livro+&tbm=isch&ved=2ahUKEwiwiqnNucr7AhXMN7kGHV6QB9wQ2-cCegQIABAA",
+	
+		"preco": 23.79,
+	
+		"estudio": "f6f2b2c6-f18a-4941-9996-fa7faf6d0e07",
+
+		"paginas": 317
+	},
+
+	{ 
+		"id": "1f3ec4d9-bb90-40f3-bec7-e0be3e59650f",
+	
+		"titulo": "Legends of Runeterra",
+	
+		"descricao": "Se divirta em um jogo battleRoyale",
+	
+		"screenshots": [
+			"https://www.google.com/search?q=legends+of+runeterra&sxsrf=ALiCzsaHL9zVNd25yC6PC2-3Yqx6H8FkJg:1669417460626&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTtuPVuMr7AhVzqZUCHadhBhwQ_AUoAnoECAMQBA&biw=1920&bih=937&dpr=1#imgrc=d5Bp62Jiwka_XM"
+		],
+	
+		"thumbnail": "https://playruneterra.com/pt-br/",
+		
+		"preco": 0.0,
+		
+		"estudio": "3406fc62-0473-48e5-81a7-4c261bc14a50",
+
+		"tamanho": "10.0gb",
+
+		"categorias" : [
+		1,
+		10			
+	]	
+    }
 
 
 

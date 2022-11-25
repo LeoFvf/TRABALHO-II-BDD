@@ -14,7 +14,14 @@
             "item" : "ac8aa64f-e717-4ce8-a009-d8eb0666773b",
             "nota" : 5,
             "avaliacao" : "Filme com uma drama muito boa."
+         },
+
+         {
+            "item" : "732fc6e0-d16b-4c72-9862-967a0fabe51e",
+            "nota" : 5,
+            "avaliacao" : ""
          }
+         
 
       ]
 	},
@@ -34,7 +41,13 @@
             "item" : "f6777f0b-9864-4121-9a24-86dca5035902",
             "nota" : 4,
             "avaliacao" : ""
-            }
+         },
+
+         {
+            "item" : "1f3ec4d9-bb90-40f3-bec7-e0be3e59650f",
+            "nota" : 4,
+            "avaliacao" : "Adoro jogar no colégio."
+         }         
       ]
    },
 
@@ -47,6 +60,12 @@
          "item" : "c70c10c6-3813-453c-864d-fd2bbda6597b",
          "nota" : 5,
          "avaliacao" : ""
+         },
+
+         {
+            "item" : "777ab0a4-1489-4c4f-ad74-87444935d095",
+            "nota" : 5,
+            "avaliacao" : ""
          }
       ]
    },
@@ -60,8 +79,50 @@
          "item" : "f6777f0b-9864-4121-9a24-86dca5035902",
          "nota" : 2,
          "avaliacao" : ""
+         },
+
+         {
+            "item" : "2577a505-a4ce-4e03-9baf-58931f9a4bbb",
+            "nota" : 5,
+            "avaliacao" : ""
+         },
+
+         {
+            "item" : "1315cf05-f7ab-4f0f-a355-99bc889781ee",
+            "nota" : 5,
+            "avaliacao" : ""
          }
+         
+      ]
+   },
+
+
+   {
+		"id": "a1895f5c-9dc1-4642-a820-74e6c1e0c02b",
+		"nome" : "Felipe Fulano",
+		"email" : "felipe@gmail.com",
+      "itens_baixados" : [
+         {
+         "item" : "17f795aa-069e-48a1-a7c0-a7e869939a4",
+         "nota" : 2,
+         "avaliacao" : ""
+         },
+
+         {
+            "item" : "1f3ec4d9-bb90-40f3-bec7-e0be3e59649f",
+            "nota" : 5,
+            "avaliacao" : ""
+         },
+
+         {
+            "item" : "1f3ec4d9-bb90-40f3-bec7-e0be3e59650f",
+            "nota" : 1,
+            "avaliacao" : "Jogo muito travado."
+         }   
       ]
    }
+
+
+
 
 ]

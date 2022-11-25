@@ -70,8 +70,33 @@
 	{
 		"id": "8ed62d7d-4536-4705-bee2-86ccb76bdd38",
 		"nome": "Gorilla Studio",
-		"descricao": "Estudio de animações e efeitos visuais.",
+		"descricao": "Stars Group foi fundida com a Flutter Entertainment, que passou a administrar a plataforma.",
 		"thumbnail": "https://www.google.com/search?q=Gorilla+Studio&sxsrf=ALiCzsbkQEAMgnnENfT1pWqTXAwiaEB21g:1669398002660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpvr-X8Mn7AhWcK7kGHeazAGsQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1#imgrc=jCB1beEAljmPdM"
+	},
+
+	{
+		"id": "18565ee1-9f2e-46a9-9a8a-56a8bccef1b5",
+		"nome": "Amaya Inc",
+		"descricao": "Estudio de animações e efeitos visuais.",
+		"thumbnail": "https://www.google.com/search?q=Amaya+Inc&rlz=1C1FCXM_pt-PTBR992BR992&hl=pt-BR&sxsrf=ALiCzsYdxryjqsLGi5JV9VqDXKH1XKvQdw:1669416586188&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAgOi0tcr7AhWgILkGHYc1A6IQ_AUoA3oECAIQBQ&biw=1536&bih=714&dpr=1.25"
+	},
+
+	{
+		"id": "3406fc62-0473-48e5-81a7-4c261bc14a50",
+		"nome": "Riot Games",
+		"descricao": "Plataforma de jogos divertidos.",
+		"thumbnail": "https://www.riotgames.com/pt-br"
+  },
+
+  	{
+		"id": "f6f2b2c6-f18a-4941-9996-fa7faf6d0e07",
+		"nome": "Bloomsbury Publishing",
+		"descricao": "Editora independente, com sede em Londres conhecida por romances literários.",
+		"thumbnail": "https://www.google.com/search?q=Bloomsbury+Publishing+Plc&hl=pt-BR&tbm=isch&sxsrf=ALiCzsYHpNBCbNXaacqXYXzlSJ1POuD-gw:1669417895146&source=lnms&sa=X&ved=2ahUKEwi6vvykusr7AhXOGbkGHb1MBTEQ_AUoA3oECAIQBQ&biw=1536&bih=714&dpr=1.25"
 	}
+  
+	
+
+
 
 ]
